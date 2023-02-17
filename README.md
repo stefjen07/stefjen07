@@ -10,3 +10,6 @@ Software engineer and aspiring software enterpreneur
 ### 📕 Publications
 - Neural Networks in Swift ([article](https://medium.com/towards-data-science/neural-networks-on-swift-ba181dcdfde5), [repo](https://github.com/stefjen07/NeuralNetwork))
 - Building Neural Network in Swift using Metal shaders ([article](https://medium.com/towards-data-science/building-neural-network-in-swift-using-metal-shaders-aa1fd75d715b), [repo](https://github.com/stefjen07/ShadersNeuralNetwork))
+### 📱 App Store
+- AroundTheWorld - Trip Planner ([download](https://apps.apple.com/us/app/aroundtheworld-trip-planner/id1632511505))
+- TaniNoie - Learn Japanese ([download](https://apps.apple.com/us/app/taninoie-learn-japanese/id1670473660))
