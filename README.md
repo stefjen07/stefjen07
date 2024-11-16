@@ -16,3 +16,4 @@ Software engineer and aspiring software enterpreneur
 ### 📱 App Store
 - AroundTheWorld - Trip Planner ([download](https://apps.apple.com/us/app/aroundtheworld-trip-planner/id1632511505))
 - TaniNoie - Learn Japanese ([download](https://apps.apple.com/us/app/taninoie-learn-japanese/id1670473660))
+- Poetica - Write & Discover ([download](https://apps.apple.com/us/app/poetica-write-discover/id6736592851))
