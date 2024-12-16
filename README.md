@@ -9,6 +9,7 @@ Software engineer and aspiring software enterpreneur
 - Yandex Cup 2022 3rd place ([repo #1](https://github.com/stefjen07/RadioComm), [repo #2](https://github.com/stefjen07/HideNSeek), [repo #3](https://github.com/stefjen07/PineComm))
 - IT’s Tinkoff Solution Cup 2023 4th place ([repo](https://github.com/stefjen07/Tinkoff23-Final))
 - Yandex Cup 2023 5th place ([repo](https://github.com/stefjen07/YandexMusicApp))
+- Yandex Cup 2024 1st place among Yandex employees
 ### 📕 Publications
 - Neural Networks in Swift ([article](https://medium.com/towards-data-science/neural-networks-on-swift-ba181dcdfde5), [repo](https://github.com/stefjen07/NeuralNetwork))
 - Building Neural Network in Swift using Metal shaders ([article](https://medium.com/towards-data-science/building-neural-network-in-swift-using-metal-shaders-aa1fd75d715b), [repo](https://github.com/stefjen07/ShadersNeuralNetwork))
